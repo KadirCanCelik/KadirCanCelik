@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I am a passionate developer and AI researcher focu
 
 ## 🛠️ Tech Stack & Tools
 
-### &emsp; Languages & Frameworks &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Infrastructure & Development Environment
+### &emsp; Languages & Frameworks &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Infrastructure & Development Environment
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)

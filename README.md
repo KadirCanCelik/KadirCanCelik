@@ -12,23 +12,28 @@ Welcome to my GitHub profile! I am a passionate developer and AI researcher focu
 ## 🛠️ Tech Stack & Tools
 
 ### Languages & Frameworks
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 ### Infrastructure & Development Environment
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
+![WSL2](https://img.shields.io/badge/Linux_WSL2-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![WSL2](https://img.shields.io/badge/Linux_WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ## 🚀 Featured Projects
 
+<details>
+<summary><b>✨ Click here to expand and view my deep-dive architectural projects!</b></summary>
+<br>
+
 | <div align="center">Project</div> | <div align="center">Description</div> | <div align="center">Tech Stack</div> |
 | :--- | :--- | :--- |
-| **[LangForge](https://github.com/kadircancelik/langforge)** | **Zero-latency AI English speaking friend.** Engineered with a diskless, direct-to-RAM audio pipeline for instantaneous processing. It ensures 100% biometric privacy and token-cost optimization by handling speech recognition locally and only routing plain text to the LLM. By utilizing asynchronous, sentence-by-sentence streaming to the local TTS engine, it drastically minimizes Time-to-First-Audio (TTFA) for a seamless, human-like conversational experience. | `Python` `Faster-Whisper` `Silero-TTS` `Groq` `NumPy` `CustomTkinter` |
-| **[Visual Forensics Radar](https://github.com/kadircancelik/visual-forensics-radar)** | **Multi-layered AI forgery detection system.** Employs an "Ensemble of Experts" architecture to detect digital manipulation and synthetic media. It combines Error Level Analysis (ELA) for pixel-level splicing detection, zero-shot CLIP classification to identify generative latent signatures, and a sophisticated VLM (Qwen2-VL) to logically deduce and explain physical impossibilities. The decoupled backend and frontend are orchestrated via Docker. | `FastAPI` `Streamlit` `PyTorch` `Transformers` `CLIP` `Qwen2-VL` `Docker` |
-| **[Academic Search Agent](https://github.com/kadircancelik/academic-search-agent)** | **Autonomous AI research assistant.** Built on the LangChain ReAct (Reasoning and Acting) framework to automate academic literature reviews. It intelligently orchestrates tools like the ArXiv API and web search, autonomously deciding the optimal path based on query complexity. Utilizing an open-source LLM (Mistral-7B via Hugging Face), it synthesizes complex scientific papers into structured insights, delivered through a decoupled FastAPI backend and Streamlit frontend. | `Python` `LangChain` `Mistral-7B` `FastAPI` `Streamlit` `ArXiv API` `Hugging Face` |
+| **[LangForge](https://github.com/yourusername/langforge)** | **Zero-latency AI English speaking friend.** Engineered with a diskless, direct-to-RAM audio pipeline for instantaneous processing. It ensures 100% biometric privacy and token-cost optimization by handling speech recognition locally and only routing plain text to the LLM. By utilizing asynchronous, sentence-by-sentence streaming to the local TTS engine, it drastically minimizes Time-to-First-Audio (TTFA) for a seamless, human-like conversational experience. | `Python` `Faster-Whisper` `Silero-TTS` `Groq` `NumPy` `CustomTkinter` |
+| **[Visual Forensics Radar](https://github.com/yourusername/visual-forensics-radar)** | **Multi-layered AI forgery detection system.** Employs an "Ensemble of Experts" architecture to detect digital manipulation and synthetic media. It combines Error Level Analysis (ELA) for pixel-level splicing detection, zero-shot CLIP classification to identify generative latent signatures, and a sophisticated VLM (Qwen2-VL) to logically deduce and explain physical impossibilities. The decoupled backend and frontend are orchestrated via Docker. | `FastAPI` `Streamlit` `PyTorch` `Transformers` `CLIP` `Qwen2-VL` `Docker` |
+| **[Academic Search Agent](https://github.com/yourusername/academic-search-agent)** | **Autonomous AI research assistant.** Built on the LangChain ReAct (Reasoning and Acting) framework to automate academic literature reviews. It intelligently orchestrates tools like the ArXiv API and web search, autonomously deciding the optimal path based on query complexity. Utilizing an open-source LLM (Mistral-7B via Hugging Face), it synthesizes complex scientific papers into structured insights, delivered through a decoupled FastAPI backend and Streamlit frontend. | `Python` `LangChain` `Mistral-7B` `FastAPI` `Streamlit` `ArXiv API` `Hugging Face` |
+
+</details>
